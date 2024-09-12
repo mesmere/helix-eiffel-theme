@@ -84,7 +84,7 @@
 #"ui.cursorcolumn.secondary" = ""
 "ui.cursorline.primary" = { bg = "ui_background_accent" }
 #"ui.cursorline.secondary" = ""
-"ui.debug.active" = { fg = "ui_debug_line" }
+"ui.debug.active" = { fg = "ui_debug_breakpoint" }
 "ui.debug.breakpoint" = { fg = "ui_debug_breakpoint" }
 "ui.gutter" = { bg = "ui_background" }
 "ui.gutter.selected" = { bg = "ui_background_accent" }
