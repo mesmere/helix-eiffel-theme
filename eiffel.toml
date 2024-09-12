@@ -73,13 +73,13 @@
 #"ui.cursor" = { modifiers = ['reversed'] }
 "ui.cursor.insert" = { bg = "ui_mode_insert_accent" }
 "ui.cursor.match" = { modifiers = ['reversed'] }
-"ui.cursor.normal" = { fg = "", bg = "ui_mode_normal_accent" }
-"ui.cursor.select" = { fg = "", bg = "ui_mode_select_accent" }
+"ui.cursor.normal" = { bg = "ui_mode_normal_accent" }
+"ui.cursor.select" = { bg = "ui_mode_select_accent" }
 #"ui.cursor.primary" = ""
-"ui.cursor.primary.insert" = { fg = "", bg = "ui_mode_insert" }
+"ui.cursor.primary.insert" = { bg = "ui_mode_insert" }
 #"ui.cursor.primary.match" = ""
-"ui.cursor.primary.normal" = { fg = "", bg = "ui_mode_normal" }
-"ui.cursor.primary.select" = { fg = "", bg = "ui_mode_select" }
+"ui.cursor.primary.normal" = { bg = "ui_mode_normal" }
+"ui.cursor.primary.select" = { bg = "ui_mode_select" }
 "ui.cursorcolumn.primary" = { bg = "ui_background_accent" }
 #"ui.cursorcolumn.secondary" = ""
 "ui.cursorline.primary" = { bg = "ui_background_accent" }
